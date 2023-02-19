@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   const [counter,setCounter] = useState(10)
-  console.log("dfgbhdfhfg")
+  // console.log("dfgbhdfhfg")
   return (
     <div className="App">
     <h1 className='counter_value'>Counter: {counter}</h1>
